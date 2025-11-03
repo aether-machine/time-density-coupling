@@ -37,7 +37,7 @@ $$
 k = A \exp\left[-\frac{E_a}{R T_{\text{eff}}(x,t)}\right], \quad T_{\text{eff}} = f(\tau)
 $$
 
-where \( \tau(x,t) \) modulates effective thermal agitation through the information density of time itself.
+where $$\( \tau(x,t) \)$$ modulates effective thermal agitation through the information density of time itself.
 
 ---
 
