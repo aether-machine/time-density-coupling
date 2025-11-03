@@ -1,4 +1,4 @@
-From Oscillons to Life: Emergent Coherence in Time-Dense Fields
+# From Oscillons to Life: Emergent Coherence in Time-Dense Fields
 
 1. Introduction
 
