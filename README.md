@@ -46,9 +46,8 @@ where $$\( \tau(x,t) \)$$ modulates effective thermal agitation through the info
 ### 🔹 Model 1: Temporal Diffusion
 **Goal:** Examine how nonuniform τ-fields distort diffusion profiles.  
 Equation:
-$$
-\frac{\partial C}{\partial t} = D \nabla \cdot (\tau(x,t) \nabla C)
-$$
+
+$$\frac{\partial C}{\partial t} = D \nabla \cdot (\tau(x,t) \nabla C)$$
 
 ### 🔹 Model 2: τ-Dependent Chemical Kinetics
 **Goal:** Couple τ-field to reaction rate constants in A → B systems.  
