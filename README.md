@@ -59,12 +59,11 @@ Stability = encoded history of prior dynamics.
 
 Modified Arrhenius relation:
 
-$$k(x,t) = A * exp( -Ea / (R * T_eff(x,t)) )$$
+$$
+k = A \exp\left[-\frac{E_a}{R T_{\text{eff}}(x,t)}\right], \quad T_{\text{eff}} = f(\tau)
+$$
 
-
-where
-
-$$T_eff ∝ 1 / τ$$
+where $$\( \tau(x,t) \)$$
 
 τ behaves like an effective thermal agitation field.
 
