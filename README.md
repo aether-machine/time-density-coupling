@@ -85,6 +85,22 @@ This is the foundation of proto-life in the simulations.
 Diffusion equation modified by τ:
 
 $$
+\frac{\partial C}{\partial t}
+= D\, \nabla \cdot \big( \tau(x,t)\, \nabla C \big)
+$$
+
+
+Effects:
+- high τ ("thick time") slows diffusion
+- low τ ("thin time") sharpens gradients
+
+---
+
+### **Model 2 — τ-Dependent Reaction Kinetics**
+
+First-order reaction A → B with τ-modulated rate:
+
+$$
 (x,t) = k_{0}\, \tau^{\gamma}
 $$
 
