@@ -200,7 +200,7 @@ Using aggregated metrics, we can classify parameter regimes:
 | **Hyperτ Runaway** | τ increases explosively (analogous to cancerous growth) |
 
 **FIGURE 4: Phase Map (α vs β)**  
-*(Insert scatter plot: coherence vs alpha/beta)*
+![Markdown Logo](https://github.com/aether-machine/dynamic-tau-reaction-diffusion/blob/main/plots/phase_alpha_beta.png)
 
 The parameter sets with highest coherence and lowest entropy cluster sharply — evidence of a **true attractor basin**.
 
